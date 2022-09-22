@@ -1,0 +1,23 @@
+.eight__block {
+    width: 100%;
+    height: 70px;
+
+    background-color: rgba(23, 24, 25, 1);
+    color:#fff;
+}
+
+.eight__block__inner__center {
+    width: 100%;
+    height: 70px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.eight__block__text {
+    width: 100%;
+    height: 50px;
+
+    text-align: center;
+}

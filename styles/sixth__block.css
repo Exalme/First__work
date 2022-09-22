@@ -1,0 +1,63 @@
+.sixth__block {
+    margin-top: -1px;
+
+    width: 100%;
+    height: 110px;
+
+    background: #171819;
+
+    font-family: 'OpenSans';
+
+    cursor: default;
+}
+
+.sixth__block__inner    {
+}
+
+.sixth__title__inner    {
+    position: relative;
+}
+
+.sixth__title {
+    position: absolute;
+
+    text-align: center;
+
+    font-size: 22px;
+    line-height: 26px;
+
+    letter-spacing: 0.846154px;
+
+    color: #FFFFFF;
+
+    padding-top: 35px;
+    padding-left: 340px;
+}
+.input__block {
+    display: flex;
+    justify-content: right;
+
+    padding-top: 30px;
+}
+.input {
+    width: 220px;
+    height: 40px;
+}
+.input__btn span {
+    display: flex;
+
+    padding: 15px 50px;
+
+    font-size: 13px;
+    line-height: 15px;
+
+    text-align: center;
+
+    letter-spacing: 0.5px;
+
+    color: #FFFFFF;
+
+    background: #00A4E5;
+
+    cursor: pointer;
+}

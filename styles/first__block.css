@@ -1,0 +1,59 @@
+.first__blok    {
+    width: 100%;
+    height: 100vh;
+
+    background: url('https://p0.pikist.com/photos/231/403/architecture-building-infrastructure-roof-design-cloud-sky.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    text-align: center;
+
+    cursor: default;
+}   
+
+.first__blok__inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 100%;
+    height: 100vh;
+}
+.title {
+    margin-top: 40px;
+
+    font-size: 60px;
+
+}
+
+.discription {
+}
+
+.discription__top {
+    line-height: 70px;
+ 
+    font-size: 60px;
+    letter-spacing: 0.1px;
+    font-weight: 400;
+
+    color: #fff;
+
+    font-family: 'Fjalla One', sans-serif;
+}
+.discription__bottom {
+    font-size: 16px;
+    line-height: 19px;
+
+    color:#fff;
+}
+
+.scroll {
+    font-size: 18px;
+    line-height: 13px;
+    letter-spacing: 3.7px;
+
+    color: #fff;
+
+    margin-bottom: 70px;
+}

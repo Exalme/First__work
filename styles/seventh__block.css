@@ -1,0 +1,150 @@
+.seventh__block {
+    width: 100%;
+    height: 240px;
+
+    background: #141A20;
+    color: #FFFFFF;
+
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+}
+
+.seventh__block__inner__center  {
+    padding-top: 42px;
+}
+.seventh__block__inner {
+    display: flex;
+    justify-content: space-between;
+
+}
+.company {
+    width: 250px;
+    height: 148px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.company__title {
+    font-size: 11px;
+    line-height: 13px;
+
+    letter-spacing: 0.846154px;
+
+    margin-bottom: 14px;
+}
+.company__logo {
+}
+.company__discription {
+font-size: 11px;
+line-height: 19px;
+
+letter-spacing: 0.85px;
+}
+.links {
+    width: 250px;
+    height: 150px;
+
+
+}
+.links__title {
+font-size: 11px;
+line-height: 13px;
+
+letter-spacing: 0.846154px;
+}
+
+.links__inner   {
+    width: 262px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.first__block__links {
+    margin-top: 10px;
+
+    width: 76px;
+    height: 125px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.second__block__links   {
+    margin-top: 10px;
+
+    width: 52px;
+    height: 75px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.third__block__links    {
+    margin-top: 10px;
+
+    width: 62px;
+    height: 75px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.link  {
+    text-transform: uppercase;
+    text-decoration: none;
+
+    font-size: 11px;
+    line-height: 25px;
+
+    align-items: center;
+    letter-spacing: 0.846154px;
+
+    color: #FFF;
+}
+
+.contacts {
+    width: 141px;
+    height: 128px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contacts__title {
+font-size: 11px;
+line-height: 13px;
+
+letter-spacing: 0.846154px;
+}
+
+.contacts__text {
+font-size: 11px;
+line-height: 16px;
+
+letter-spacing: 0.846154px;
+}
+.socials {
+    display: flex;
+    justify-content: space-between;
+}
+.Facebook,
+.Twitter,
+.Google {
+    width: 64px;
+    height: 64px;
+
+    margin-left: 15px;
+
+    cursor: pointer;
+}
+
+.Facebook   {
+    margin-left: 0;
+}

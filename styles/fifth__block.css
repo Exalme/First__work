@@ -1,0 +1,47 @@
+.fifth__block {
+    margin-top: 50px;
+
+    width: 100%;
+    height: 500px;
+
+    background: url('../images/bg__bottom.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    text-align: center;
+
+    font-family: 'OpenSans';
+
+    cursor: default;
+}
+
+.fifth__block__inner {
+    width: 100%;
+    height: 500px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.fifth__block__title {
+font-size: 30px;
+line-height: 36px;
+letter-spacing: 0.15px;
+
+color: #48555B;
+}
+.fifth__block__btn span {
+    padding: 11px 26px;
+
+    font-size: 13px;
+    line-height: 15px;
+
+    letter-spacing: 0.5px;
+
+    color: #FFFFFF;
+
+    background: #00A4E5;
+
+    cursor: pointer;
+}
